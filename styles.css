@@ -1,2 +1,21 @@
-
-/* Your CSS Code here. */
+#table1{
+	width:100%;
+	border-collapse:collapse;
+	border-color: black;
+}
+#a{
+	background-color: rgb(192,80,77) ;
+	color:white;
+}
+#b{
+	background-color: #DA9694;
+	color:white;
+}
+#c{
+	background-color: #F2DCDB;
+	color:black;
+}
+#d{
+	background-color: #D9D9D9;
+	color:black;
+}
